@@ -1,2 +1,2 @@
 # Expense-Tracker
-Build a simple expense tracker to manage your finances.
+A simple expense tracker to manage your finances.
