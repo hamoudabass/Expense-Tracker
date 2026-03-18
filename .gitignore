@@ -1,4 +1,30 @@
-.idea
-test.py
+# Base de données
+database/expenses.json
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pyc
+
+venv/
+env/
+.env
+.venv
+
+# IDE
+.idea/              # PyCharm
+.vscode/            # VSCode
+*.iml
+
+# OS
+.DS_Store           # Mac
+Thumbs.db           # Windows
+
+# Logs
+*.log
+
 test2.py
-database/
+test.py
+.idea
